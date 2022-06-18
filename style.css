@@ -1,0 +1,87 @@
+body {background-color: black ; 
+    font-family:arial;color:white}
+h1{color:grey;font-family:verdana}
+.maindiv {background-color:  rgb(255, 253, 253);
+        color: black; 
+        width: 300 pixels; 
+        padding : 20px;
+        border-radius: 25px;
+        margin: auto;
+        width: 50%;}
+
+         
+        
+        div{
+        
+            position: absolute;
+        }
+        
+        #rangeValue{
+            margin: auto;
+            position:absolute;
+            top: 0;
+            right: -60px;
+            padding: 2px;
+            width: 50px;
+            box-sizing: border-box;
+            background: #fff;
+            text-align: center;
+        }
+        
+        #rangeValue:before
+        {
+            content: '';
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%) rotate(45deg);
+            left: -5px;
+            width: 10px;
+            height: 10px;
+            background: #fff
+            ;
+        
+        }
+        body {background-color: black ; 
+    font-family:arial;color:white}
+h1{color:grey;font-family:verdana}
+.maindiv {background-color:  rgb(255, 253, 253);
+        color: black; 
+        width: 300 pixels; 
+        padding : 20px;
+        border-radius: 25px;
+        margin: auto;
+        width: 50%;}
+
+         
+        
+        div{
+        
+            position: absolute;
+        }
+        
+        #rangeValue{
+            margin: auto;
+            position:absolute;
+            top: 0;
+            right: -60px;
+            padding: 2px;
+            width: 50px;
+            box-sizing: border-box;
+            background: #fff;
+            text-align: center;
+        }
+        
+        #rangeValue:before
+        {
+            content: '';
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%) rotate(45deg);
+            left: -5px;
+            width: 10px;
+            height: 10px;
+            background: #fff
+            ;
+        
+        }
+        
